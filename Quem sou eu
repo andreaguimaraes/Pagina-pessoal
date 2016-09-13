@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<header>
+
+<nav>
+
+<ul>
+
+<font face="arial"><font size="6>
+<a href="#Quem sou eu">Quem sou eu
+<li><a href="C:\Users\as_gu\Desktop\Teste2B_Andrea dos Santos  Guimaraes/Perfil1.htm">Forma&ccedil&atildeo</li>
+<li><a href="#Interesses">
+Interesses</a></li>
+
+<li><a href="#Atividades semanais">
+Atividades Semanais</li></a></font face></font size>
+
+<head>
+<meta charset="utf-8"/>
+<font face="arial"> <font size="5"><title> Andrea dos Santos Guimar&atildees - Quem sou eu </title>
+</head>
+
+
+<body><body bgcolor="#FFF5E8"> </body>
+
+
+<article>
+<h1>Quem sou eu</h1><p>
+
+<p><img src="C:\Users\as_gu\Downloads\image1.jpg" width="300" height="400" " align="left" alt="Andrea Guimar&atildees" />
+<p>Meu nome e Andrea Guimar&atildees, tenho 34 anos.</p> 
+<p>Sou recepcionista em um laboratorio de analises clinicas.</p>
+<p>Amo os animais e quando era crian&ccedila pensava em ser veterinaria.</p>
+<p>Aos 15 anos me interessei por computadores e desde ent&atildeo sonho em trabalhar com isso.</p> 
+<p>N&atildeo sou uma pessoa que gosta muito de falar sobre mim. Prefiro escutar mais as pessoas.</p>
+<a href="#top">Voltar para o topo</a>
+
+<h2>Forma&ccedil&atildeo</h2>
+Forma&ccedil&atildeo</a>
+<p>Sou formada em Direito mas n&atildeo exer&ccedilo a profiss&atildeo. Atualmente cursando Engenharia de Software.</p>
+<a href="#top">Voltar para o topo</a>
+
+
+<h3>Interesses</h3>
+<p> Atualmente faco curso de ingles e tenho 4 cachorros.</p>
+<p> Meus hobbies sao viajar e ir ao cinema.</p>
+<a href="#top">Voltar para o topo</a>
+
+
+<p>
+<table border="1">
+<caption>Atividades Semanais</caption></font face><font size>
+<tr>
+<th scope="col">Dias da Semana</th>
+<th scope="col">Segunda</th>
+<th scope="col">Ter&ccedila</th>
+<th scope="col">Quarta</th>
+<th scope="col">Quinta</th>
+<th scope="col">Sexta</th>
+<th scope="col">Sabado</th>
+<th scope="col">Domingo</th>
+</tr>
+</p>
+
+<tr>
+<td> 06 horas <td> Cafe da manh&atilde </td><td> Cafe da manh&atilde </td><td> Cafe da manh&atilde </td><td> Cafe da manh&atilde </td><td> Cafe da manh&atilde </td><td> Cafe da manh&atilde </td></tr>
+<td> 08 horas <td> Trabalho </td><td> Trabalho </td><td> Trabalho </td><td> Trabalho </td><td> Trabalho </td><td>Curso de Ingles</td><td> Cafe da manh&atilde </td></tr>
+<td> 13 horas<td> Almo&ccedilo </td><td> Almo&ccedilo </td><td> Almo&ccedilo </td><td> Almo&ccedilo </td><td> Almo&ccedilo </td><td> Almo&ccedilo </td><td> Almo&ccedilo </td> </td></tr>
+<td> 19 horas <td> Faculdade </td><td> Faculdade </td><td> Faculdade </td><td> Faculdade </td><td> Faculdade </td></td></tr>
+<td> 23 horas <td>Jantar</td><td>Jantar</td><td>Jantar</td><td>Jantar</td><td>Jantar</td><td>Jantar</td><td>Jantar</td></tr>
+<td> 01 hora <td>Dormir</td><td>Dormir</td><td>Dormir</td><td>Dormir</td><td>Dormir</td><td>Dormir</td><td>Dormir</td></tr>
+</html>
